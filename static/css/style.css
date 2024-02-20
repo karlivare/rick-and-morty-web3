@@ -1,0 +1,8 @@
+#characters-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+    gap: 2rem;
+}
